@@ -1,0 +1,17 @@
+.match-item-container {
+  background-color: #0f172a;
+  border-radius: 15px;
+  width: 350px;
+  font-family: bree Serif;
+  color: #ffffff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  list-style-type: none;
+}
+.card-logo-style {
+  height: 150px;
+  width: 150px;
+}

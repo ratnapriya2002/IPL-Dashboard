@@ -1,0 +1,15 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.latest-match-content {
+  font-family: bree Serif;
+  color: #ffffff;
+}
+.latest-match-card-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #0f172a;
+  padding: 20px;
+  align-items: center;
+  border-radius: 15px;
+  text-align: right;
+}

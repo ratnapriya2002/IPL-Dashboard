@@ -1,0 +1,16 @@
+.match-details-container {
+  background-color: #000000;
+  padding: 20px;
+}
+.banner-image-style {
+  width: 100%;
+}
+.para-latest {
+  color: #ffffff;
+  font-family: bree Serif;
+}
+.match-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
